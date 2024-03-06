@@ -12,10 +12,10 @@ After Installation, Boot into Fedora. Login to tty
 
 ```
 sudo dnf install wget
-wget -qO- | sh
+wget -qO- https://gg.gg/gnome-min | sh
 ```
 
 ### Optional
 ```
-wget -qO-  | sh
+wget -qO- https://gg.gg/gsetup | sh
 ```
